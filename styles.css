@@ -1,0 +1,50 @@
+section {
+    border-bottom: solid black 1px;
+}
+
+body {
+    font-family: monospace;
+    font-size: 15px;
+}
+
+table, td, th {
+    border: solid black 1px;
+}
+
+table {
+    border-spacing: 3px;
+}
+
+td, th {
+    padding: 3px;
+    text-align: center;
+    width: 8em;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#poem {
+    text-align: center;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.pink {
+    background-color: pink;
+}
